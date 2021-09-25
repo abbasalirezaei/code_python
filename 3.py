@@ -12,6 +12,3 @@ elif razi>=1 and razi<=2:
 else:print("Mamma mia!!!")
 # 70 80 90 10 95  Mamma mia!
 
-
-  git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
